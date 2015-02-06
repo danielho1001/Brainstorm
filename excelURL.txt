@@ -1,0 +1,17 @@
+https://community.workday.com/brainstorm/all/advanced/xml?field_lead_product_value_many_to_one_op=or&field_lead_product_value_many_to_one%5B0%5D=15&field_jira_value=&uid=&rid_op=or&idea_industry=All&search=&created_op=%3E%3D&created%5Bvalue%5D=&created%5Bmin%5D=&created%5Bmax%5D=
+
+https://community.workday.com/brainstorm/all/advanced/xml?field_lead_product_value_many_to_one_op=or&field_lead_product_value_many_to_one%5B0%5D=2036&field_jira_value=&uid=&rid_op=or&idea_industry=All&search=&created_op=%3E%3D&created%5Bvalue%5D=&created%5Bmin%5D=&created%5Bmax%5D=
+
+https://community.workday.com/brainstorm/all/advanced/xml?field_lead_product_value_many_to_one_op=or&field_lead_product_value_many_to_one%5B0%5D=3622&field_jira_value=&uid=&rid_op=or&idea_industry=All&search=&created_op=%3E%3D&created%5Bvalue%5D=&created%5Bmin%5D=&created%5Bmax%5D=
+
+https://community.workday.com/brainstorm/all/advanced/xml?field_lead_product_value_many_to_one_op=or&field_lead_product_value_many_to_one%5B0%5D=x162&field_lead_product_value_many_to_one%5B1%5D=x161&field_jira_value=&uid=&rid_op=or&idea_industry=All&search=&created_op=%3E%3D&created%5Bvalue%5D=&created%5Bmin%5D=&created%5Bmax%5D=
+
+https://community.workday.com/brainstorm/all/advanced/xml?field_lead_product_value_many_to_one_op=or&field_lead_product_value_many_to_one%5B0%5D=298&field_jira_value=&uid=&rid_op=or&idea_industry=All&search=&created_op=%3E%3D&created%5Bvalue%5D=&created%5Bmin%5D=&created%5Bmax%5D=
+
+https://community.workday.com/brainstorm/all/advanced/xml?field_lead_product_value_many_to_one_op=or&field_lead_product_value_many_to_one%5B0%5D=2690&field_lead_product_value_many_to_one%5B1%5D=17&field_jira_value=&uid=&rid_op=or&idea_industry=All&search=&created_op=%3E%3D&created%5Bvalue%5D=&created%5Bmin%5D=&created%5Bmax%5D=
+
+https://community.workday.com/brainstorm/all/advanced/xml?field_lead_product_value_many_to_one_op=or&field_lead_product_value_many_to_one%5B0%5D=18&field_jira_value=&uid=&rid_op=or&idea_industry=All&search=&created_op=%3E%3D&created%5Bvalue%5D=&created%5Bmin%5D=&created%5Bmax%5D=
+
+https://community.workday.com/brainstorm/all/advanced/xml?field_lead_product_value_many_to_one_op=or&field_lead_product_value_many_to_one%5B0%5D=415&field_jira_value=&uid=&rid_op=or&idea_industry=All&search=&created_op=%3E%3D&created%5Bvalue%5D=&created%5Bmin%5D=&created%5Bmax%5D=
+
+https://community.workday.com/brainstorm/all/advanced/xml?field_lead_product_value_many_to_one_op=or&field_lead_product_value_many_to_one%5B0%5D=20&field_jira_value=&uid=&rid_op=or&idea_industry=All&search=&created_op=%3E%3D&created%5Bvalue%5D=&created%5Bmin%5D=&created%5Bmax%5D=
